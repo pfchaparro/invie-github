@@ -1,4 +1,4 @@
-#TEMPLATE 1
+# TEMPLATE 1
 <!-- Please fill out the title field according to our pull-requests conventions -->
 
 ### Description
@@ -16,7 +16,7 @@ review @alguien
 - [ ] It doesn't depend on other branches/PR
 - [ ] Has tests.
 
-#TEMPLATE 2
+# TEMPLATE 2
 
 # Descripción
 ¿Que ha cambiado?
